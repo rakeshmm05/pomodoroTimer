@@ -10,7 +10,6 @@ A simple RESTful Pomodoro timer built with **Spring Boot**. It helps users manag
 - Manage tasks (CRUD operations).
 - Auto-persist session/task data using **H2 in-memory database**.
 - RESTful API endpoints.
-- Ready for extension with a frontend (React, Vue, etc.).
 
 ---
 
